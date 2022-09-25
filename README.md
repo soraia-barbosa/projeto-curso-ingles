@@ -6,3 +6,4 @@
 <h2>De onde surgiu a ideia?</h2>
 
 <p>De uma demanda real, a necessidade de divulgar meu curso de inglês e a necessidade de praticar fundamentos de construção de páginas por meio de HTML5 e CSS3.<p/>
+<p>Esta primeira versão apresenta apenas a configuração para desktop.
