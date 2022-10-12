@@ -4,20 +4,22 @@
   ![read me 1](https://user-images.githubusercontent.com/114086320/195460931-c0449d2e-9587-41b2-bf91-a934b5c65fb2.png)
 
 <ul>Conteúdos
-  <li><a href="#visao-geral">Visão Geral</a> 
-    <li><a href="#o-desafio">O Desafio</a></li>
-  </li>  
-  <li><a href="#meu-processo">Meu processo</a>
-    <li><a href="#aprendizados">Aprendizados</a></li>
-  </li>  
+  <li><p>Visão Geral</p></li> 
+    <li><p>Meu processo</></li>
+  
   </ul>
 
-<h1>Visão geral>
-<ul>Os usuários devem ser capazes de:
-  <p>Visualizar corretamente o layout do site em um Desktop.</p>
-   </li>
-</ul>  
+<h1>Visão geral</>
+
+   <h2>O Desafio</h2>
+  <li>Os usuários devem ser capazes de visualizar corretamente o layout do site em um Desktop.</li>
+  
+ 
 
 <h1>Meu processo</>
   <h2>Aprendizados</h2>
-  <li>Aplicar a estrutura básica do HTML5: <!DOCTYPE html>, a tag "meta" e a tag "style."</li>
+  <li>Aplicação da estrutura básica do HTML5: <!DOCTYPE html>, a tag "meta", a tag "style", a tag "head" e a tag "body"."</li>
+  <li>Aplicação da estilização por meio dos recursos do CSS: "width", "height", "background-color", "display", "margin", "align-items", "padding" e "text-align".</li>
+  <li>Aplicação das tags "div", "class" e "main".
+
+  
