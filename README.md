@@ -14,10 +14,10 @@
 
 <h1>Visão geral>
 <ul>Os usuários devem ser capazes de:
-  <li>Visualizar corretamente o layout do site, dependendo do tamanho da tela do dispositivo</li>
+  <p>Visualizar corretamente o layout do sitem um Desktop.</p>
    </li>
 </ul>  
 
 <h1>Meu processo</>
-  <p>Aprendizados</>
-  
+  <h2>Aprendizados</h2>
+  <li><a href="#Aplicar a estrutura básica do HTML5: <!DOCTYPE html>, a tag "meta" e a tag "style."</a></li>
