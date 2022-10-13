@@ -1,5 +1,5 @@
 # projeto-curso-ingles
-<h1> Projeto curso inglês</>
+<h1> projeto-curso-inglês</>
 
   ![read me 1](https://user-images.githubusercontent.com/114086320/195460931-c0449d2e-9587-41b2-bf91-a934b5c65fb2.png)
 
