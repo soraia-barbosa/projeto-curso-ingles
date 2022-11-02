@@ -19,7 +19,7 @@
 <h1>Meu processo</>
   <h2>Aprendizados</h2>
   <li>Aplicação da estrutura básica do HTML5: <!DOCTYPE html>, a tag "meta", a tag "style", a tag "head" e a tag "body"."</li>
-  <li>Aplicação da estilização por meio dos recursos do CSS: "width", "height", "background-color", "display", "margin", "align-items", "padding" e "text-align".</li>
+  <li>Aplicação dos seletores CSS: "width", "height", "background-color", "display", "margin", "align-items", "padding" e "text-align".</li>
   <li>Aplicação das tags "div", "class" e "main".
   <li>Utilização de ferramentas do Github.
 
